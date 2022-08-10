@@ -24,10 +24,6 @@ proxy_type = ""
 output_filename = ""
 output_format = ""
 
-# url's to fetch proxies [HTTP, Socks]
-http_url = "https://sslproxies.org"
-socks_url = "https://socks-proxy.net"
-
 
 
 # Banner
