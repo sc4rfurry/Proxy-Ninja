@@ -10,7 +10,7 @@ Bfore installing the python3 requirements , please install the ChromiumDriver as
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 if not installed, install it using the following command.
 ```bash
-`sudo apt-get install python3-pip
+sudo apt-get install python3-pip
 ```
 
 > It is advised to install the python requirements in a virtual environment, for that install the venv package.
