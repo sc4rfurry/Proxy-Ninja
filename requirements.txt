@@ -1,6 +1,4 @@
 requests
-beautifulsoup4
-Scrapy
 selenium
 urllib3
 selenium-stealth
