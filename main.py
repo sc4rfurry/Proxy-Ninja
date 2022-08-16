@@ -84,7 +84,7 @@ def iO_func(json_prox, proxy_type, output_filename, output_format):
         _filename = f"{output_filename}_{proxy_type}.{output_format}"
         if output_format == "json":
             with open(_filename, "w+") as handle:
-                handle.write(proxies)
+                handle.write(json_prox)
         else:
             json_data = ld(json_prox)
             for _ in json_data:
