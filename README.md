@@ -2,7 +2,7 @@
 # Proxy Ninja
 Python script to get https or socks(4) proxies by scraping the web using StealthChromiumDriver.
 ## Installation
-Bfore installing the python3 requirements , please install the ChromiumDriver as following debian/kali
+Before installing the python3 requirements , please install the ChromiumDriver as following debian/kali
 ```bash
     sudo apt-get update && sudo apt-get full-upgrade -y
     sudo apt-get install chromium-driver
