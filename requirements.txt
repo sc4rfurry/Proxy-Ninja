@@ -3,3 +3,4 @@ selenium
 urllib3
 selenium-stealth
 rich
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
